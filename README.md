@@ -1,0 +1,2 @@
+# Monitoramento_inversores_fotovoltaicos_Python_Selenium
+Script Python para verificação automatizada de status de inversores fotovoltaicos utilizando Selenium
